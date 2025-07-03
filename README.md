@@ -52,11 +52,11 @@ I have deployed my project in github pages
 
 ## Authors
 
-- [@affancoder](https://github.com/affancoder)
+- [@vankam DINESH](https://github.com/vankam-dinesh/e-commerce.git)
 
 
 ## 🚀 About Me
-👋 Hi, I’m @affancoder (MD Affan Asghar)
+👋 Hi, I’m @VANKAM DINESH
 
 👀 I’m interested in coding.
  
@@ -66,15 +66,9 @@ I have deployed my project in github pages
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://affancoder.github.io/Portfolio_Website/)
 
-Email: affanasgar8@gmail.com
+Email: dineshvankam56@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/mdaffanasghar/
-
-Instagram: https://www.instagram.com/mr_affan15/
-
-GitHub: https://github.com/affancoder
 ## Feedback
 
-If you have any feedback, please reach out to us at affanasgar8@gmail.com
+If you have any feedback, please reach out to us dineshvankam56@gmail.com
