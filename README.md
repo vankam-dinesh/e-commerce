@@ -24,22 +24,8 @@ Dive into the Amazon Clone and discover a host of features designed to emulate t
 
 ## Usage
 
-### Getting Started
-
-1. *Clone Repository:*
-   bash
-   git clone https://github.com/affancoder/e-commerce.git
+### 
    
-
-2. *Open Project:*
-   Open the project in your preferred code editor.
-
-3. *Explore:*
-   Launch index.html in a web browser to embark on an exploration of the Amazon Clone. Immerse yourself in the responsive design and interact with the diverse features.
-
-## Contribution
-
-Contributions are not just welcomed but encouraged! Whether you're identifying bugs, suggesting enhancements, or adding new features, your input is valued. Feel free to open issues or submit pull requests to contribute to the continuous improvement of this project.
 
 ## License
 
@@ -72,3 +58,4 @@ Email: dineshvankam56@gmail.com
 ## Feedback
 
 If you have any feedback, please reach out to us dineshvankam56@gmail.com
+
