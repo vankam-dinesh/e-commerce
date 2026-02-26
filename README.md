@@ -9,7 +9,7 @@ Welcome to the Amazon Clone, a meticulously crafted front-end project that mirro
 The primary objective of this project is to showcase a mastery of front-end technologies, providing a hands-on demonstration of building a dynamic and visually appealing web application. By replicating the core features of Amazon, the project serves as a practical exercise in user interface design and interactive web development.
 
 ### Key Technologies
-
+                                       
 - *HTML & CSS:* These foundational languages were employed to structure content and style elements, ensuring a polished and engaging visual presentation.
 - *JavaScript:* Functionality and interactivity are brought to life through JavaScript, allowing users to explore dynamic features such as carousel, bact to top and enhancing the overall user experience.
 - *Bootstrap:* Leveraging the power of Bootstrap, the project benefits from a responsive and mobile-first design approach, guaranteeing a consistent and intuitive interface across diverse devices.
@@ -58,6 +58,7 @@ Email: dineshvankam56@gmail.com
 ## Feedback
 
 If you have any feedback, please reach out to us dineshvankam56@gmail.com
+
 
 
 
